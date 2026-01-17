@@ -1,6 +1,6 @@
 # Gif gatito
 
-![Animated cat performing a playful walking cycle animation](./src/img/gif/gatito.gif)
+<img src="./src/img/gif/gatito.gif" alt="gif-gatito" width="400" />
 
 A small Java desktop project that displays an animated cat GIF using a lightweight animation class. Useful as a learning example for loading images, handling simple animation loops, and building minimal GUI programs in Java.
 
