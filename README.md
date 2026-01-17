@@ -1,18 +1,17 @@
-## Getting Started
+# Gif gatito
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+![Animated cat performing a playful walking cycle animation](./src/img/gif/gatito.gif)
 
-## Folder Structure
+A small Java desktop project that displays an animated cat GIF using a lightweight animation class. Useful as a learning example for loading images, handling simple animation loops, and building minimal GUI programs in Java.
 
-The workspace contains two folders by default, where:
+- **Features:** Simple GIF/cycle animation, minimal dependencies, easy-to-read source.
+- **Language:** Java
+- **Prerequisites:** JDK 8 or newer
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Project structure
+- `src/` — Java source files (main animation code in `Animacion.java`)
+- `img/` — image and GIF assets used by the program
+- `bin/` — compiled classes (output directory)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
